@@ -1,5 +1,12 @@
 # Predicting-Worker-Fatigue-using-Machine-Learning-and-Deep-Learning
 
+
+---------------
+Main code 
+---------------
+
+Please check out "Part1.ipynb" nad "Part2.ipynb" Jupyter notebook files.
+
 ---------------
 Abstract
 ---------------
@@ -12,6 +19,8 @@ for us to tune our machine learning model. In the end, we were able to reach an 
 between fatigue vs normal. By improving on our current work, we can expand the applications of our machine learning model to
 countless other industries. With that being said, this project should be used as a steppingstone to create a reliable solution 
 that cannot just improve efficiency within companies but prevent serious injuries to people and their environments.
+
+
 
 ---------------
 Project Goal
