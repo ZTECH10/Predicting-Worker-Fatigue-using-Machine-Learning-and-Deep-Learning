@@ -53,6 +53,7 @@ Results
 ML models considered: Baseline, Linear , Decision Tree, Random Forest, XGBoost, Neural Network.
 
 -The highest accuracy was achieved on the data_preprocessing_with_PCA subfolder (99.1% with Neural Network).
+
 ---------------
 Challenges
 ---------------
